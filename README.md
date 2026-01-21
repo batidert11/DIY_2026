@@ -1,4 +1,4 @@
-# Overview of this repo
+# Overview of this reporepo
 
 > This repo houses all of the code and analysis conducted for the 2026 iteration of the DIYtranscriptomics course
 
